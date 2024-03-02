@@ -33,7 +33,7 @@ export default function Home() {
   };
   return (
     <main>
-      <div className="bg-black flex flex-row justify-center items-center">
+      <div className="bg-black flex flex-row justify-center items-center h-[100vh]">
         {/* <Static_left/> */}
         <div className="flex flex-row justify-center items-center">
           <div className="space-y-7">
